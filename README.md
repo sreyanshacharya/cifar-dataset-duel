@@ -1,16 +1,16 @@
 # cifar-dataset-duel
 
-👾 **CIFAR-10 vs CIFAR-100 – Dataset Showdown**
+ **CIFAR-10 vs CIFAR-100 - Comparing the two titans on a single CNN Model**
 
 This project compares the **CIFAR-10** and **CIFAR-100** databases with respect to complexity and training tendencies using a simple Convolutional Neural Network (CNN) to observe:
 
-- 📈 **Training vs validation accuracy trends among the two datasets**
-- ⚔️ **Impact of dataset complexity on network performance and accuracy**
-- 💡 **Effect of regularisation using Dropout on overfitting**
+-  **Training vs validation accuracy trends among the two datasets**
+-  **Impact of dataset complexity on network performance and accuracy**
+-  **Effect of regularisation using Dropout on overfitting**
 
 ---
 
-## 🔬 Key Results
+##  Key Results
 
 _(Results without regularisation)_
 
