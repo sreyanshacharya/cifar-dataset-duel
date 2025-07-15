@@ -69,3 +69,12 @@ python main.py
 - 'main.py' is the _actual script_ to be run.
 
 -'c10.png' and 'c100.png' will be the two plots created _after_ the main script is run. My plots have been uploaded.
+
+### **Author**
+
+**Sreyansh Acharya (bread)** – _CS Student and aspiring ML Engineer with interests in machine learning, neural networks and rock music. 🤘🏻_
+**Connect With Me**
+- sreyanshacharyaa@gmail.com
+- github.com/sreyanshacharya
+
+---
